@@ -4,8 +4,7 @@ This *[bind9](https://gitlab.isc.org/isc-projects/) Docker Image* is based on **
 
 ## Supported tags and respective `Dockerfile` links
 
-- [`9.20.8-r0`, `latest`](https://github.com/dmachard/docker-bind9/tree/master/.20.8-r0)
-- [`9.18.33-r0`](https://github.com/dmachard/docker-bind9/tree/master/9.18.33-r0)
+- [`9.18.33-r0`, `latest`](https://github.com/dmachard/docker-bind9/tree/master/9.18.33-r0)
 - [`9.18.27-r0`](https://github.com/dmachard/docker-bind9/tree/master/9.18.27-r0)
 - [`9.18.24-r1`](https://github.com/dmachard/docker-bind9/tree/master/9.18.24-r1)
 
